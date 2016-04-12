@@ -24,6 +24,10 @@
             <id>bukkit-repo</id>
             <url>http://repo.bukkit.org/content/groups/public/</url>
         </repository>
+        <repository>
+            <id>yawkat</id>
+            <url>http://mvn.yawk.at</url>
+        </repository>
     </repositories>
 
     <dependencies>
