@@ -18,14 +18,6 @@
         <craftbukkit.version>R0.1</craftbukkit.version>
     </properties>
 
-    <repositories>
-        <!-- Bukkit -->
-        <repository>
-            <id>bukkit-repo</id>
-            <url>http://repo.bukkit.org/content/groups/public/</url>
-        </repository>
-    </repositories>
-
     <dependencies>
         <dependency>
             <groupId>com.captainbern</groupId>
