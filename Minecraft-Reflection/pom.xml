@@ -24,6 +24,10 @@
             <id>yawkat</id>
             <url>http://mvn.yawk.at</url>
         </repository>
+        <repository>
+            <id>spigot-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+        </repository>
     </repositories>
 
     <dependencies>
