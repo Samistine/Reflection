@@ -21,12 +21,8 @@
     <repositories>
         <!-- Bukkit -->
         <repository>
-            <id>yawkat</id>
-            <url>http://mvn.yawk.at</url>
-        </repository>
-        <repository>
-            <id>spigot-repo</id>
-            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+            <id>bukkit-repo</id>
+            <url>http://repo.bukkit.org/content/groups/public/</url>
         </repository>
     </repositories>
 
